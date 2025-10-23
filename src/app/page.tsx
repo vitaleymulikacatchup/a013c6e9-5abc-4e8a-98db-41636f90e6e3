@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/ThemeProvider";
 import NavbarLayoutFloatingInline from '@/components/navbar/NavbarLayoutFloatingInline';
@@ -177,8 +177,7 @@ export default function Home() {
               company: "TechCorp Solutions",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/6869043/pexels-photo-6869043.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Portrait of Michael Johnson",
-              content: "CarHub made finding my dream car effortless. Their team was professional and the financing options were excellent."
+              imageAlt: "Portrait of Michael Johnson"
             },
             {
               id: "2",
@@ -187,8 +186,7 @@ export default function Home() {
               company: "Creative Agency",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/8441826/pexels-photo-8441826.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Portrait of Sarah Williams",
-              content: "Outstanding service and quality vehicles. The inspection report gave me complete confidence in my purchase."
+              imageAlt: "Portrait of Sarah Williams"
             },
             {
               id: "3",
@@ -197,8 +195,7 @@ export default function Home() {
               company: "StartupLab",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/3801426/pexels-photo-3801426.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Portrait of David Chen",
-              content: "The trade-in evaluation was fair and the whole process was transparent. Highly recommend CarHub."
+              imageAlt: "Portrait of David Chen"
             },
             {
               id: "4",
@@ -207,8 +204,7 @@ export default function Home() {
               company: "Global Investments",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/6325981/pexels-photo-6325981.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Portrait of Jennifer Martinez",
-              content: "Professional team with extensive knowledge. They helped me find the perfect luxury vehicle within my budget."
+              imageAlt: "Portrait of Jennifer Martinez"
             }
           ]}
         />
@@ -225,9 +221,7 @@ export default function Home() {
             "https://images.pexels.com/photos/195636/pexels-photo-195636.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
             "https://images.pexels.com/photos/6894432/pexels-photo-6894432.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
             "https://images.pexels.com/photos/6152797/pexels-photo-6152797.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-            "https://images.pexels.com/photos/258083/pexels-photo-258083.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-            "https://images.pexels.com/photos/9538548/pexels-photo-9538548.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-            "https://images.pexels.com/photos/170809/pexels-photo-170809.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+            "https://images.pexels.com/photos/258083/pexels-photo-258083.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
           ]}
         />
       </div>
